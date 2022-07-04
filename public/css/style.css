@@ -1,0 +1,17 @@
+body {
+    padding-top: 70px;
+}
+
+.slide-image {
+    width: 100%;
+}
+
+.green{
+    background-color: rgba(0,255,0, 0.2);
+}
+
+
+.pull-right{
+    text-align: right;
+    /*float:right;*/
+}
